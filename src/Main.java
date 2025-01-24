@@ -117,7 +117,7 @@ public class Main {
         workingHours = numberOfEmployees * workingDay;
         System.out.println("Если в компании работает " +numberOfEmployees+ " человека, то всего " +workingHours+ " часа работы может быть поделено между сотрудниками");
 
-        System.out.println("D/Z2025");
+        System.out.println("DZ2025/2");
 
 
 
